@@ -12,8 +12,7 @@ fi
 
 # Start from target date (set this to your desired end date)
 
-current_date="2018-01-31"
-
+current_date="2025-01-02"
 
 
 for i in $(seq 1 $1)
